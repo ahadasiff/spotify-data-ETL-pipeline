@@ -22,7 +22,7 @@ This project implements an ETL pipeline for Spotify data using AWS services.
 * <b>Amazon Athena:</b> Analyzes the data stored in S3 using SQL queries.
 
 ### 4. Architecture Diagram:
-![arc](./spotify-data-architecture.png)
+ ![Image Alt](https://github.com/ahadasiff/spotify-data-ETL-pipeline/blob/2fdd330d6542492c4913283788f164b89a3f66e4/Architecture-diagram%20(1).png)
 
 #  Technologies Used:
 
